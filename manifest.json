@@ -1,0 +1,14 @@
+{
+	"manifest_version": 1,
+	"name": "Jonatan Temesio :: Software Engineer",
+	 "version": "1.0",
+	  "default_locale": "en",
+		"description": "More than 10 years of experience in development, with strong focus on Web. Always interested in new technologies and new ways of exploiting them to achieve great user experience.",
+		 "author": "Jonatan Temesio",
+	"icons": [
+	"48": "dist/images/om.png",
+  "96": "dist/images/om.png"
+	],
+	"theme_color": "#ffffff",
+	"display": "standalone"
+}
